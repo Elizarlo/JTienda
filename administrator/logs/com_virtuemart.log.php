@@ -507,3 +507,113 @@
 2019-01-30 06:01:29 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
 2019-01-30 06:01:36 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
 2019-01-30 06:03:01 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-30 06:12:08 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-30 15:39:50 ERROR vmError: Failed to parse the Currency Converter XML document.
+2019-01-30 15:39:50 ERROR vmError: The content: &lt;html&gt;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
+&lt;body bgcolor=&quot;white&quot;&gt;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;Myra&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+2019-01-30 16:31:36 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 01:56:57 ERROR vmError: Failed to parse the Currency Converter XML document.
+2019-01-31 01:56:57 ERROR vmError: The content: &lt;html&gt;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
+&lt;body bgcolor=&quot;white&quot;&gt;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;Myra&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+2019-01-31 02:29:49 ERROR vmError: Save failed with the following error: Username in use.
+2019-01-31 02:32:09 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 02:32:16 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 02:34:13 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 02:34:21 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 02:34:24 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 02:35:12 ERROR vmError: VmPDF helper: For the PDF invoice and other PDF business letters, you must install the tcpdf library at /var/www/html/Store/libraries/tcpdf
+2019-01-31 02:35:12 ERROR vmError: No path set to store invoices
+2019-01-31 02:35:21 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 02:35:28 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:43:47 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:48:08 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:48:17 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:48:57 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:49:08 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:49:57 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:50:01 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:50:09 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:50:28 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:50:37 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:51:54 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:51:59 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:06 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:13 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:14 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:19 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:26 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:37 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:38 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:41 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:52:43 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:53:17 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:54:02 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:55:20 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:55:31 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:55:43 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:55:48 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:56:07 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:56:33 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:57:00 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:57:19 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:57:23 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:57:34 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:57:37 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:57:44 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:59:54 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 03:59:58 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:00:23 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:01:46 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:01:51 ERROR vmError: Failed to parse the Currency Converter XML document.
+2019-01-31 04:01:51 ERROR vmError: The content: &lt;html&gt;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
+&lt;body bgcolor=&quot;white&quot;&gt;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;Myra&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+2019-01-31 04:02:48 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:02:52 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:03:24 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:03:31 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:03:37 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:03:39 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:03:44 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:04:01 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:04:04 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:04:05 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:04:29 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:04:32 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:04:41 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 04:04:58 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-01-31 20:22:10 ERROR vmError: Failed to parse the Currency Converter XML document.
+2019-01-31 20:22:10 ERROR vmError: The content: &lt;html&gt;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
+&lt;body bgcolor=&quot;white&quot;&gt;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;Myra&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+2019-01-31 20:22:23 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://elizarlo.me/Store/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2019-02-01 15:35:28 ERROR vmError: Failed to parse the Currency Converter XML document.
+2019-02-01 15:35:28 ERROR vmError: The content: &lt;html&gt;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
+&lt;body bgcolor=&quot;white&quot;&gt;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;Myra&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;
